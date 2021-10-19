@@ -1,0 +1,18 @@
+Apro slack
+Leggo l'esercizio dato su slack
+apro git hub
+creo la nuova repo con il nome fornito dal proff su slack
+apro vscode
+clono la repo
+creo un file index.html 
+creo un file style.css
+aggiungo alla cartella boolean del mio pc le varie foto che ci passano per l'esercizio
+collego il file css al file html
+apro index.html dalla cartella boolean per vedere le modifiche che effettuero' all'esercizio
+creo header nav main e footer per gestirmi lo spazio di lavoro
+aggiungo delle stringhe di codice per creare qualcosa in pagina
+se faccio un commit subito dopo faccio un push per far vedere ai prof del pomeriggio a che punto sono
+aggiungo codici sia nel file html che nel file css
+ogni tanto quando mi ricordo faccio un push per far capire ai proff che sto andando avanti
+se ho bisogno chiedo una mano via ticket agli insegnanti del pomeriggio
+prima di chiudere l'applicazione "vscode" faccio un commit e subito dopo un push. 
